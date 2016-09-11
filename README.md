@@ -14,27 +14,41 @@ destination.
 Upto the 3 stations journey, fare is ₹ 10.00/- ( for all Lines )
 After the 3 stations, for every extra station,
 
-₹ 2.50/- for Line I
-₹ 2.00/- for Line II
-₹ 3.00/- for Line III
+* ₹ 2.50/- for Line I
+* ₹ 2.00/- for Line II
+* ₹ 3.00/- for Line III
+
+
 There is no extra cost associated with changing lines
-Expected Input format:
+
+
+##**Expected Input format:**
+
 Enter Source Station Code:
+
 A4
+
 Enter Destination Station Code:
+
 B12
-Expected Output format:
+
+##**Expected Output format**:
+
 *************************************************************
-Hyderabad Metro Rail
-Source: Kukatpally Distance ( stations): 18
-Destination: Charminar Cost: ₹ 46.50/-
+                  Hyderabad Metro Rail
+Source:   Kukatpally          Distance ( stations):    18
+Destination: Charminar        Cost:    ₹ 46.50/-
 *************************************************************
-Following are the details of the Lines / Stations:
+##**Following are the details of the Lines / Stations:**
+
 3 Lines - 66 Stations - 3 Interchange Stations:
-Line I - Miyapur to L B Nagar - 27 Stations, 29 KM
-Line II - JBS to Falaknuma - 16 Stations, 15 KM
-Line III - Nagole to Shilparamam - 23 Stations, 28 KM
-Stations – Line I:
+
+* Line I - Miyapur to L B Nagar - 27 Stations, 29 KM
+* Line II - JBS to Falaknuma - 16 Stations, 15 KM
+* Line III - Nagole to Shilparamam - 23 Stations, 28 KM
+
+##**Stations – Line I:**
+
 Code Station Code Station Code Station
 A1 Miyapur A2 JNTU College A3 KPHB Colony
 A4 Kukatpally A5 Balanagar A6 Moosapet
@@ -45,7 +59,11 @@ A16 Assembly A17 Nampally A18 Gandhi Bhavan
 A19 Osmania Medical College X2 MG Bus station A21 Malakpet
 A22 New Market A23 Musarambagh A24 Dilsukhnagar
 A25 Chaitanyapuri A26 Victoria Memorial A27 L B Nagar
-Stations – Line II:
+
+
+##**Stations – Line II:**
+
+
 Code Station Code Station Code Station
 B1 JBS X3 Parade Grounds B3 Secunderabad
 B4 Gandhi Hospital B5 Musheerabad B6 RTC Cross Roads
@@ -53,7 +71,11 @@ B7 Chikkadpally B8 Narayanguda B9 Sultan Bazar
 X2 M G Bus Station B11 Salarjung Museum B12 Charminar
 B13 Shalibanda B14 Shamsher Gunj B15 Jungametta
 B16 Falaknuma
-Stations - Line III:
+
+
+##**Stations - Line III:**
+
+
 Code Station Code Station Code Station
 C1 Nagole C2 Uppal C3 Survey of India
 C4 NGRI C5 Habsiguda C6 Tarnaka
