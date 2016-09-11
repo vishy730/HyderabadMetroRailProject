@@ -4,12 +4,16 @@ Transportation in a metro city is a major issue for the Government of Telangana,
 Hyderabad is not an exception to this rule. Keeping this in view, the Hyderabad Metro Rail (HMR)
 is being developed as one of the largest modern transport systems in the world based upon the PPP
 model.
+
 There are a lot of systems in HMR, one of them is Ticketing System. A passenger needs a
 ticket to travel by the metro rail. Build a system which can print the ticket, given both source and
 destination.
-Following are the pricing rules to consider:
+###Following are the pricing rules to consider:
+
+
 Upto the 3 stations journey, fare is ₹ 10.00/- ( for all Lines )
 After the 3 stations, for every extra station,
+
 ₹ 2.50/- for Line I
 ₹ 2.00/- for Line II
 ₹ 3.00/- for Line III
